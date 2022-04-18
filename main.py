@@ -52,7 +52,7 @@ def experiment(**kwargs):
     return m / n
 
 
-################################################################nik
+# Starter code
 hat1 = Hat(blue=3, red=2, green=6)
 hat2 = Hat(red=5, blue=2)
 # print(hat2.contents)
