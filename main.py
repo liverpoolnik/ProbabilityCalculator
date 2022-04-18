@@ -58,7 +58,7 @@ hat2 = Hat(red=5, blue=2)
 # print(hat2.contents)
 # print(hat2.draw(8))
 # print(hat2.contents)
-hat3 = Hat(black=6, red=4, green=3)
+# hat3 = Hat(black=6, red=4, green=3)
 probability = experiment(hat=hat1, expected_balls={"blue": 2, "green": 1},
                          num_balls_drawn=4, num_experiments=1000)
 print(probability)
